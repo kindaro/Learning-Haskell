@@ -1,3 +1,5 @@
+module LearningHaskell.Ping where
+
 import Control.Concurrent (threadDelay)
 import Control.Exception (finally)
 import Data.Binary.Get
