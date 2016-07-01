@@ -17,7 +17,7 @@ extra-source-files:  README
 cabal-version:       >=1.10
 
 library
-  exposed-modules:     Ping
+  exposed-modules:     LearningHaskell.Ping
   -- other-modules:       
   -- other-extensions:    
   build-depends:       base >=4.8 && <4.9, binary >=0.7 && <0.8, bytestring >=0.10 && <0.11, time >=1.5 && <1.6, network >=2.6 && <2.7, unix >=2.7 && <2.8
